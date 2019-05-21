@@ -1,0 +1,30 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "chats of websoket",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jekanok/chat-express-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "express"
+  ],
+  "author": "yevhenii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jekanok/chat-express-vue/issues"
+  },
+  "homepage": "https://github.com/jekanok/chat-express-vue#readme",
+  "dependencies": {
+    "express": "^4.17.0",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}

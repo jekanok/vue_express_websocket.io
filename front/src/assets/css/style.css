@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Lato");
+@import url("/src/assets/css/normalize.css");
+
+body {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  background: #F4F5FF;
+}
+
+.messages li {
+  background: #EFF0FF;
+}
+
+.messages li>.active {
+  background: #5098DA;
+}
